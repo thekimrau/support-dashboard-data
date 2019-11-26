@@ -1,4 +1,4 @@
-entry,new,breached,nearly_breached,open,voicemails,missed_calls, answered calls,outbound calls,bug,tip,total_time
+entry,new,breached,nearly_breached,open,voicemails,missed_calls,answered_calls,outbound_calls,bug,tip,total_time
 1,8,9,5,39,2,0,3,0,Unable to log into Playground POS,Not sure how to prioritise tickets? 1. Breached Tickets 2. New tickets 3. Nearly breached tickets 4. Open tickets,
 2,8,9,5,39,2,0,3,0,Unable to log into Playground POS,"If formatting is missing from a support ticket submitted via email, click on the ""View Email"" button to see the original formatting",
 3,8,9,6,38,2,0,3,0,Unable to log into Playground POS,Not sure how to prioritise tickets? 1. Breached Tickets 2. New tickets 3. Nearly breached tickets 4. Open tickets,
